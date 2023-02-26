@@ -6,7 +6,7 @@
 <div>
 
 ![background image](background.png) 
-
+<p align=" center ">
 ## Hi there 👋
 
 - 🔭 I’m currently working on my portfolio.
@@ -14,7 +14,7 @@
 - 💬 Ask me about anything.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am creating a candyland portfolio. 
-
+</p>
 </br>
 
 ### Languages:
