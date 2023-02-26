@@ -1,3 +1,5 @@
+<!-- All the icons are from: https://github.com/devicons/devicon/tree/master/icons -->
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio.
