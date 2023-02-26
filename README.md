@@ -6,8 +6,10 @@
 <div>
 
 ![background image](background.png) 
-<p align=" center ">
-## Hi there 👋
+<p align=" right ">
+  
+  
+  <h1> Hi there</h1> 👋
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning JavaScript.
