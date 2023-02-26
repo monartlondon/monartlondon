@@ -30,9 +30,9 @@
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />
 
 
-
+<!--
 <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-
+-->
 
 
 
