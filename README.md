@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with JS.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [email] (monart.london@gmail.com)
+- 📫 How to reach me: ...[email](monart.london@gmail.com)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am creating a candy land portfolio. 
+- ⚡ Fun fact: I am creating a candyland portfolio. 
 
