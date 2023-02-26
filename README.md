@@ -21,6 +21,6 @@ To add an image: [<img aligh:"left" alt="watever | youtube" width="30px" src="ht
 ### Languages and Tools:
 
 [<img align="left" alt="Tensorflow" width=px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d
-Visual Studio Code HTML5 CSS3 CSharp JavaScript React Node.js python flask SQL postgreSQL Git GitHub Docker Terminal
+Visual Studio Code HTML5 CSS3 CSharp JavaScript React Node.js python flask SQL postgreSQL Git GitHub Docker Terminal]
 
 
