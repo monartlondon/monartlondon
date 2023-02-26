@@ -1,6 +1,6 @@
 <!-- All the icons are from: https://github.com/devicons/devicon/tree/master/icons -->
 
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning JavaScript.
