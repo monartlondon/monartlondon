@@ -8,6 +8,9 @@ To add an image: [<img aligh:"left" alt="watever | youtube" width="30px" src="ht
 - 📫 How to reach me: ...[email](monart.london@gmail.com) add the webpage here
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with JS.
+
+[<img align="left" alt="Tensorflow" width=px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d
+Visual Studio Code HTML5 CSS3 CSharp JavaScript React Node.js python flask SQL postgreSQL Git GitHub Docker Terminal]
 -->
 
 - 🔭 I’m currently working on my portfolio.
@@ -20,7 +23,6 @@ To add an image: [<img aligh:"left" alt="watever | youtube" width="30px" src="ht
 
 ### Languages and Tools:
 
-[<img align="left" alt="Tensorflow" width=px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d
-Visual Studio Code HTML5 CSS3 CSharp JavaScript React Node.js python flask SQL postgreSQL Git GitHub Docker Terminal]
+
 
 
