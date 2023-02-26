@@ -3,6 +3,8 @@
 ![background image](https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG) 
 <p align=" right ">
   
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+ <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   
   <h1> Hi there</h1> 👋
 
@@ -43,8 +45,7 @@
 </div>
 
 
-<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
- <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+ https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 
 
 
