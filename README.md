@@ -19,8 +19,13 @@ Visual Studio Code HTML5 CSS3 CSharp JavaScript React Node.js python flask SQL p
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am creating a candyland portfolio. 
 
-<a href="mailto:monart.london@gmail.com"><img align="left" alt="Monica D'Agosto | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>
+<a href="mailto:monart.london@gmail.com"><img align="left" alt="Monica D'Agosto | GMail" width="60px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/>
 
+  
+  
+  
+  
+  
 ### Languages and Tools:
 
 
