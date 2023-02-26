@@ -1,7 +1,8 @@
 <!-- All the icons are from: https://github.com/devicons/devicon/tree/master/icons 
 <img src="https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG" height="240" width="480">
--->
 ![background image](https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG) 
+-->
+![background image](background.png) 
 
 
 ## Hi there 👋
