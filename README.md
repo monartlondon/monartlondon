@@ -2,8 +2,10 @@
 <img src="https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG" height="240" width="480">
 ![background image](https://github.com/monartlondon/monartlondon/blob/main/IMG_1147.JPG) 
 -->
-![background image](background.png) 
 
+<div>
+
+![background image](background.png) 
 
 ## Hi there 👋
 
@@ -34,6 +36,8 @@
 <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" />
 
+
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
