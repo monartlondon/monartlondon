@@ -1,5 +1,5 @@
 
-![background image](background.png) 
+![background image](GitHubIntro.png) 
 
 </br>
 
